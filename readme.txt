@@ -1,0 +1,1 @@
+Primeiro documento criado no repositório git para a prática da disciplina.
