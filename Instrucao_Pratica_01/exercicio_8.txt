@@ -1,0 +1,4 @@
+Exercício 8
+
+- Noctis: Extensão que disponibiliza opções de temas para o vscode.
+- Pomodoro Timer: Extensão que disponibiliza um cronômetro para aplicar a técnica pomodoro para estudo ou trabalho.

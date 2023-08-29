@@ -1,0 +1,18 @@
+
+Exercício 7
+
+Extensões instaladas no meu vscode:
+
+- C/C++ Extension Pack
+- CMake Tools
+- Extension Pack for Java
+- GitLens
+- IntelliCode
+- IntelliCode API Usage Examples
+- Material Icon Theme
+- Noctis
+- Pomodoro Timer
+- Auto Complete Tag
+- Polacode
+- Emerald
+- Dracula Official

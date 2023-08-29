@@ -1,0 +1,1 @@
+Para a escolha de tema eu utilizo a extensão Emerald. Após a instalação da extensção é possível selecionar o tema através de um botão na página da extensão.
