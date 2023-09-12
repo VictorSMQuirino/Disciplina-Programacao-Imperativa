@@ -1,0 +1,1 @@
+O código do exercício 1 contém coesão comunicacional e acoplamento comum.
