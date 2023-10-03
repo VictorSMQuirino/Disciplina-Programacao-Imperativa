@@ -1,0 +1,10 @@
+Conteudo para testar escrita de arquivos
+
+Aula 22
+Data 3/10/2023
+Disciplina: Programacao Imperativa
+
+
+
+
+Teste com arquivo de 10 linhas
