@@ -59,6 +59,6 @@ static bool alterarDados(string nomeArquivo){
     //vector<string> arquivo = BancoDeDados::recuperarDados(nomeArquivo);
 
     ofstream arquivo;
-    arquivo.app();
+    //arquivo.app();
     //arquivo.open(nomeArquivo, );
 }

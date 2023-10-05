@@ -136,4 +136,10 @@ int Menu(){
     cout<<"3 - Alterar dados"<<endl;
     cout<<"4 - Exibir conteudo do arquivo"<<endl;
     cout<<"0 - Encerrar programa"<<endl;
+
+    int opcao;
+    cout<<"\nDigite uma opção: ";
+    cin>>opcao;
+
+    return opcao;
 }
