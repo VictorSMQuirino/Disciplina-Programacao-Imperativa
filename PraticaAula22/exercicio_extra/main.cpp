@@ -80,6 +80,7 @@ int main(){
                 conteudo = BancoDeDados::recuperarDados(nomeArquivo);
                 for(string linha : conteudo) cout<<linha<<endl;
 
+                pause();
                 conteudo.clear();
                 break;
 
