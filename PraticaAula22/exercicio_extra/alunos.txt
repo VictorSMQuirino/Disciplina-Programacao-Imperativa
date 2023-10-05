@@ -1,0 +1,3 @@
+Fulano, fulano@email.com, 100.000000, 60.000000
+Beltrano, beltrano@email.com, 80.000000, 80.000000
+Cicrano, cicrano@email.com, 77.500000, 80.500000
