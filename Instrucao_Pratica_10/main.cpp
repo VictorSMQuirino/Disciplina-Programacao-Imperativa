@@ -1,11 +1,12 @@
 #include <iostream>
-#include <string>
+#include <cstring>
 #include <vector>
 #include <iomanip>
 #include <algorithm>
+#include <limits>
 using namespace std;
 
-void inserir_aluno(vector<string> &, vector<float> &, vector<float> &);
+void inserir_aluno(vector<string> &, vector<float> &, vector<float> &, int);
 void excluir_aluno(vector<string> &, vector<float> &, vector<float> &);
 void alterar_aluno(vector<string> &, vector<float> &, vector<float> &);
 void listar_alunos(vector<string> &, vector<float> &, vector<float> &);
@@ -29,6 +30,7 @@ int main(){
     cout<<"Digite a quantidade de alunos: ";
     cin>>n;
     cout<<"Limite de alunos definido para "<<n<<endl;
+    limparBuffers();
     pause();
 
     int opcao;
@@ -272,5 +274,6 @@ void listar_alunos(vector<string> &alunos, vector<float> &notas1, vector<float> 
         cout<<"Nota 1: "<<fixed<<setprecision(2)<<notas1[i]<<endl;
         cout<<"Nota 2: "<<fixed<<setprecision(2)<<notas2[i]<<endl;
         cout<<"Media = "<<fixed<<setprecision(2)<<media<<endl;
+        cout<<endl;
     }
 }
