@@ -274,6 +274,8 @@ void listar_alunos(vector<string> &alunos, vector<float> &notas1, vector<float> 
         cout<<"Nota 1: "<<fixed<<setprecision(2)<<notas1[i]<<endl;
         cout<<"Nota 2: "<<fixed<<setprecision(2)<<notas2[i]<<endl;
         cout<<"Media = "<<fixed<<setprecision(2)<<media<<endl;
+        if(media >= 7.0) cout<<"Aprovado"<<endl;
+        else cout<< "Reprovado"<<endl;
         cout<<endl;
     }
 }
