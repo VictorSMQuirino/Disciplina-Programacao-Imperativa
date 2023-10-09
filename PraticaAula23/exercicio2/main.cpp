@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Circulo.cpp"
-#include "Retangulo.h"
+#include "Retangulo.cpp"
 using namespace std;
 
 int main(){
