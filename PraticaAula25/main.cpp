@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include "model/Cliente.h"
-#include "controller/interfaceController.cpp"
+#include "Cliente.h"
+#include "interfaceController.h"
 
 using namespace std;
 
