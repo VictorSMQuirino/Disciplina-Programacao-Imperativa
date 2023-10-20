@@ -55,6 +55,19 @@ int main(){
 
     inteiros.removerElemento(4);
 
+    Lista<string> nomes;
+
+    nomes.adicionarElemeto("Victor");
+    nomes.adicionarElemeto("Joao");
+    nomes.adicionarElemeto("Maria");
+
+    nomes.listarElementos();
+
+    nomes.removerElemento("Carlos");
+    nomes.removerElemento("Joao");
+
+    nomes.listarElementos();
+
     cout<<endl;
     return 0;
 }
