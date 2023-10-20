@@ -3,8 +3,7 @@
 
 using namespace std;
 
-template <class T> 
-class Lista{
+template <class T> class Lista{
     private:
         vector<T> elementos;
     public:
